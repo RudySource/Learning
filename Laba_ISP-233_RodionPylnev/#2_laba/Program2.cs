@@ -1,11 +1,11 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System;
-
+// ТУТ НИЧЕГО НЕТУ !!!!!! ПОКА ЧТО
 namespace Laba_ISP233_RodionPylnev
 {
     internal class Program2
     {
-        static void Main(string[] args)
+        static void Main2(string[] args)
         {
             // Console.WriteLine("Введите имя: ");
             // string name = Console.ReadLine();
